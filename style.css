@@ -1,0 +1,11 @@
+h1 {
+  text-align: center;
+  background-color: lightgrey;
+  font-family: "Arial Black", Helvetica, sans-serif;
+  color: black;
+}
+h3 {
+  text-align: center;
+  background-color: red;
+}
+h2 {background-color: darkgrey}
